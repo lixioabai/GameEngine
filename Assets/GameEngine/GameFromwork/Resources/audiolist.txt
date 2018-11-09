@@ -1,0 +1,14 @@
+Login,Audio/Login
+PlayGame,Audio/PlayGame
+SelectLevel,Audio/SelectLevel
+swd_mus_lose,Audio/swd_mus_lose
+swd_mus_win,Audio/swd_mus_win
+swd_snd_1up,Audio/swd_snd_1up
+swd_snd_bounce1,Audio/swd_snd_bounce1
+swd_snd_bumper_big,Audio/swd_snd_bumper_big
+swd_snd_bumper_small,Audio/swd_snd_bumper_small
+swd_snd_food2,Audio/swd_snd_food2
+swd_snd_no_bonus,Audio/swd_snd_no_bonus
+swd_snd_powerup1,Audio/swd_snd_powerup1
+swd_snd_realease_launcher,Audio/swd_snd_realease_launcher
+swd_snd_start,Audio/swd_snd_start

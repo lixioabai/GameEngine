@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DD77B147-B5A6-C8F8-C20E-27218F54EB5D}") = "TestKeyBoradInput", "Assembly-CSharp.csproj", "{D919FF19-375E-8A0D-1BBD-A54FF33029A2}"
+EndProject
+Project("{DD77B147-B5A6-C8F8-C20E-27218F54EB5D}") = "TestKeyBoradInput", "Assembly-CSharp-Editor.csproj", "{5BE0102E-D6C3-DB7E-C142-FD080B2A98F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D919FF19-375E-8A0D-1BBD-A54FF33029A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D919FF19-375E-8A0D-1BBD-A54FF33029A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D919FF19-375E-8A0D-1BBD-A54FF33029A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D919FF19-375E-8A0D-1BBD-A54FF33029A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE0102E-D6C3-DB7E-C142-FD080B2A98F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE0102E-D6C3-DB7E-C142-FD080B2A98F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE0102E-D6C3-DB7E-C142-FD080B2A98F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE0102E-D6C3-DB7E-C142-FD080B2A98F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
